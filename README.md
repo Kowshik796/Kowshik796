@@ -1,25 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     KOWSHIK GITHUB PROFILE                     -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# 👋 Hey, I'm Kowshik
+# 👋 Hi, I'm Kowshik
 
-### `AI & Data Science Engineer` • `Cybersecurity Enthusiast` • `Full-Stack Developer`
+### `AI & Data Science` • `AI/ML Engineer` • `Cybersecurity Enthusiast`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%26+Data;Exploring+Cybersecurity+%26+Malware+Analysis;Turning+Ideas+into+Real+Projects;Learning.+Building.+Breaking.+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Computer+Vision;Cybersecurity+%7C+Malware+Analysis;Building+Ideas+into+Real+Projects" alt="Typing SVG" />
 
-<br/>
+<br>
 
-<a href="https://github.com/avinal">
-  <img src="https://img.shields.io/badge/Inspired%20by-Developer%20Profiles-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kowshik-anand">
+<img src="https://img.shields.io/badge/LinkedIn-Kowshik%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Kowshik796">
+<img src="https://img.shields.io/badge/GitHub-Kowshik796-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://kowshik-anand-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:Kowshik.officialid@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -28,55 +30,27 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Kowshik**, a 3rd-year **B.Tech Artificial Intelligence & Data Science** student passionate about building practical solutions across **AI, Data Science, Software Engineering, and Cybersecurity**.
+I'm **Kowshik**, a **B.Tech Artificial Intelligence & Data Science** student focused on building practical solutions across **AI/ML, Computer Vision, Data Science, and Cybersecurity**.
 
-I enjoy working at the intersection of:
+I'm particularly interested in understanding systems from both sides — **building intelligent applications** and **analyzing how software behaves at a low level** through malware analysis and reverse engineering.
 
-```text
-Artificial Intelligence
-        +
-Data Engineering
-        +
-Software Development
-        +
-Cybersecurity
-        =
-Building useful things
-```
+I enjoy turning ideas into working systems, experimenting with new technologies, and continuously strengthening my technical fundamentals.
 
-Currently, I'm focused on strengthening my skills in **Machine Learning, Data Engineering, Full-Stack Development, Malware Analysis, Reverse Engineering, and Security Operations**.
-
-> 💡 I don't just want to learn technologies — I want to understand how they work and build something meaningful with them.
+> **Learn deeply. Build consistently. Understand how things work.**
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 🛠️ Tech Stack
 
-* 🤖 Building **AI/ML-powered applications**
-* 📊 Developing **data engineering & analytics pipelines**
-* 🔐 Learning **SOC operations, malware analysis & reverse engineering**
-* 🌐 Building **full-stack applications**
-* ☁️ Exploring **cloud technologies & scalable architectures**
-* 🧠 Improving my **DSA, problem solving & system design**
-* 🛠️ Turning ideas into working prototypes and real-world projects
-
----
-
-# 🧠 Tech Stack
-
-### Programming
+### 💻 Programming
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts" />
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
-### AI / Machine Learning / Data
+### 🤖 AI / Machine Learning
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -85,117 +59,69 @@ Currently, I'm focused on strengthening my skills in **Machine Learning, Data En
 
 </p>
 
-### Web Development
+### 🗄️ Database
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,typescript,flask" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 </p>
 
-### Databases
+### 🔐 Cybersecurity
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://img.shields.io/badge/Malware%20Analysis-111111?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Static%20Analysis-111111?style=for-the-badge&logo=virustotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dynamic%20Analysis-111111?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
 </p>
 
-### Data Engineering
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=hadoop,spark" />
-
-</p>
-
-### Cloud & Dev Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,docker" />
-
-</p>
-
-### Cybersecurity
-
-```text
-🔎 Malware Analysis
-🔬 Static Analysis
-⚙️ Dynamic Analysis
-🧬 Reverse Engineering
-🌐 Network Analysis
-🛡️ SOC Fundamentals
-📡 Wireshark
-🖥️ Process Monitor
-🔍 PEStudio
-```
+**Security Tools:** `Wireshark` `Process Monitor` `PEStudio` `x64dbg` `IDA Pro`
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🎨 ReDye Exchange — AI-Powered Textile Platform
+## 🎨 ReDye Exchange
 
-An AI-powered platform designed around **textile dye exchange, reuse and sustainable material management**.
+### AI-Powered Textile Wastewater Forecasting Platform
 
-**Focus:**
+An **AI-driven sustainability platform** that uses machine learning to forecast **dye wastewater generation** for textile MSMEs.
 
-`AI` `Data` `Web Development` `Sustainability`
+It provides predictive insights to support **water reuse, waste reduction, and environmental compliance**.
 
-**Tech:**
+**Focus**
 
-`React` `Vite` `Tailwind CSS` `Flask` `MongoDB` `Machine Learning`
+`Machine Learning` `Predictive Analytics` `Sustainability` `Environmental Intelligence`
 
----
+**Tech**
 
-## 📊 Real Estate Data ETL Pipeline
+`Python` `Machine Learning` `MongoDB`
 
-A data engineering project focused on extracting, transforming and processing real-estate datasets into a structured analytics-ready pipeline.
-
-**Focus:**
-
-`ETL` `Data Engineering` `Data Processing` `Analytics`
-
-**Tech:**
-
-`Python` `Pandas` `Apache Spark` `Hadoop` `Cloud Storage`
+> ♻️ **Using AI to turn environmental data into actionable sustainability insights.**
 
 ---
 
-## 🛡️ Malware Analysis & Reverse Engineering
+## 🤟 Arise IVA
 
-Hands-on exploration of malicious software behavior through static and dynamic analysis.
+### Bidirectional AI-Based Sign Language ↔ Speech Conversion
 
-**Focus:**
+An **AI-powered accessibility system** designed to enable real-time communication between **sign-language users and speech users**.
 
-`Malware Analysis` `Reverse Engineering` `Threat Analysis`
+It combines **computer vision, machine learning, hand-landmark processing, and speech technologies** to translate between sign language and speech.
 
-**Tools:**
+**Focus**
 
-`Wireshark` `Process Monitor` `PEStudio` `Static Analysis` `Dynamic Analysis`
+`Computer Vision` `Machine Learning` `Sign Language Recognition` `Speech Processing`
 
----
+**Tech**
 
-## 💧 IoT Water Monitoring System
+`Python` `TensorFlow` `MediaPipe` `FastAPI`
 
-An IoT-based monitoring solution designed to track water-related parameters and provide actionable information.
-
-🏆 **1st Prize — Idea Lab 2024**
-
-**Focus:**
-
-`IoT` `Data Collection` `Monitoring` `Analytics`
-
----
-
-## 🤟 Arise Iva
-
-A sign-language recognition project exploring the use of **AI/Computer Vision** to bridge communication gaps.
-
-**Focus:**
-
-`Computer Vision` `Machine Learning` `Recognition`
+> 🤝 **Building AI that makes communication more accessible.**
 
 ---
 
@@ -203,144 +129,78 @@ A sign-language recognition project exploring the use of **AI/Computer Vision** 
 
 <div align="center">
 
-| 🏅 Achievement           |           🎯 Recognition          |
-| :----------------------- | :-------------------------------: |
-| 🥇 Idea Lab              |        **1st Prize — 2024**       |
-| 🏆 MSME                  |            **Finalist**           |
-| 🚀 Smart India Hackathon |          **Pre-Finalist**         |
-| 📚 NPTEL                 | **Industry 4.0 & Industrial IoT** |
+| 🏅 Achievement               |  🎯 Recognition  |
+| :--------------------------- | :--------------: |
+| 🥇 **Idea Lab 2024**         |   **1st Prize**  |
+| 🏆 **MSME Hackathon**        |   **Finalist**   |
+| 🚀 **Smart India Hackathon** | **Pre-Finalist** |
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 🔬 Areas of Interest
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+`Artificial Intelligence`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+`Machine Learning`
 
-</div>
+`Computer Vision`
 
-<br/>
+`Data Science`
 
-<div align="center">
+`Cybersecurity`
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+`Malware Analysis`
 
-</div>
+`Reverse Engineering`
 
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+`Threat Analysis`
 
 </div>
 
 ---
 
-# 📊 Coding Activity
+# ⚡ Developer Mindset
 
 <div align="center">
 
-<!-- Replace this with your WakaTime generated image when configured -->
+> **"Don't just use technology. Understand it."**
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turning+ideas+into+working+systems.;Always+learning.+Always+building." />
 
 </div>
 
 ---
 
-# 🧩 My Current Learning Roadmap
-
-```text
-                    KOWSHIK'S LEARNING PATH
-                             │
-            ┌────────────────┼────────────────┐
-            │                │                │
-            ▼                ▼                ▼
-       AI / ML          CYBERSECURITY    SOFTWARE ENG.
-            │                │                │
-            ▼                ▼                ▼
-      Deep Learning     SOC Operations   Full Stack
-            │                │                │
-            ▼                ▼                ▼
-      Computer Vision   Malware Analysis  Backend
-            │                │                │
-            ▼                ▼                ▼
-      Generative AI     Reverse Eng.      System Design
-            │                │                │
-            └────────────────┼────────────────┘
-                             ▼
-                    BUILD REAL PROJECTS
-```
-
----
-
-# 💻 Developer Philosophy
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Kowshik"
-        self.role = [
-            "AI & Data Science Student",
-            "Developer",
-            "Cybersecurity Enthusiast"
-        ]
-
-        self.mindset = [
-            "Learn deeply",
-            "Build consistently",
-            "Break things safely",
-            "Understand the fundamentals",
-            "Keep improving"
-        ]
-
-    def goal(self):
-        return "Build technology that solves real problems"
-```
-
----
-
-# 🌐 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/kowshik-anand">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/Kowshik796">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://kowshik-anand-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:Kowshik.officialid@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⚡ "Learn. Build. Break. Fix. Repeat."
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00F7FF" alt="Profile Views"/>
+### ⚡ Learn. Build. Analyze. Improve.
 
 </div>
-
-<!--
-=============================================================
-                     END OF PROFILE
-=============================================================
--->
