@@ -1,44 +1,26 @@
-<!-- ========================================================= -->
-
-<!--                     KOWSHIK PROFILE                       -->
-
-<!-- ========================================================= -->
-
-<!-- Animated Header -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:0F172A&text=KOWSHIK&fontSize=70&fontColor=00F7FF&fontAlignY=40&animation=fadeIn&desc=AI%20%26%20Data%20Science%20%7C%20Cybersecurity&descAlignY=62&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0F172A,50:111827,100:0F172A&amp;text=KOWSHIK&amp;fontSize=70&amp;fontColor=00F7FF&amp;fontAlignY=40&amp;animation=fadeIn&amp;desc=AI%20%26%20Data%20Science%20%7C%20Cybersecurity&amp;descAlignY=62&amp;descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Computer+Vision;Cybersecurity+%7C+Malware+Analysis;Reverse+Engineering+Enthusiast;Building+Ideas+Into+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=2800&amp;pause=900&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Computer+Vision;Cybersecurity+%7C+Malware+Analysis;Reverse+Engineering+Enthusiast;Building+Ideas+Into+Real+Projects" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/kowshik-anand">
-<img src="https://img.shields.io/badge/LinkedIn-Kowshik%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kowshik%20Anand-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/Kowshik796">
-<img src="https://img.shields.io/badge/GitHub-Kowshik796-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Kowshik796-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="https://kowshik-anand-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:Kowshik.officialid@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284126-1f2fe6f3-4b6f-4f2f-9c7c-4f3b7d7c8c8c.gif" width="100%">
 
 </div>
 
@@ -58,8 +40,6 @@ My interests sit at the intersection of **intelligent systems and security** —
 
 I enjoy taking an idea from concept to implementation while continuously strengthening my fundamentals in computer science.
 
-<br>
-
 <div align="center">
 
 > ⚡ **Learn deeply. Build consistently. Understand how things work.**
@@ -74,7 +54,7 @@ I enjoy taking an idea from concept to implementation while continuously strengt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp&amp;theme=dark" />
 
 </div>
 
@@ -84,14 +64,14 @@ I enjoy taking an idea from concept to implementation while continuously strengt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 
 </div>
 
@@ -101,7 +81,7 @@ I enjoy taking an idea from concept to implementation while continuously strengt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&amp;theme=dark" />
 
 </div>
 
@@ -111,18 +91,18 @@ I enjoy taking an idea from concept to implementation while continuously strengt
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Malware%20Analysis-111827?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&logo=gnu&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Static%20Analysis-111827?style=for-the-badge&logo=virustotal&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Dynamic%20Analysis-111827?style=for-the-badge&logo=windows&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Malware%20Analysis-111827?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&amp;logo=gnu&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Static%20Analysis-111827?style=for-the-badge&amp;logo=virustotal&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Dynamic%20Analysis-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=00F7FF"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Process%20Monitor-111827?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/PEStudio-111827?style=for-the-badge&logo=security&logoColor=white"/>
-<img src="https://img.shields.io/badge/x64dbg-111827?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/IDA%20Pro-111827?style=for-the-badge&logo=hexo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Process%20Monitor-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/PEStudio-111827?style=for-the-badge&amp;logo=security&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/x64dbg-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/IDA%20Pro-111827?style=for-the-badge&amp;logo=hexo&amp;logoColor=white"/>
 
 </div>
 
@@ -132,7 +112,7 @@ I enjoy taking an idea from concept to implementation while continuously strengt
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Two+projects.+Two+different+problems.;AI+for+Sustainability+%7C+AI+for+Accessibility" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2500&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Two+projects.+Two+different+problems.;AI+for+Sustainability+%7C+AI+for+Accessibility" />
 
 </div>
 
@@ -168,7 +148,7 @@ Sustainability Insights
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20for%20Sustainability-00F7FF?style=for-the-badge&logo=leaf&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20for%20Sustainability-00F7FF?style=for-the-badge&amp;logo=leaf&amp;logoColor=black"/>
 
 </div>
 
@@ -204,7 +184,7 @@ Speech / Text
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20for%20Accessibility-00F7FF?style=for-the-badge&logo=robot&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20for%20Accessibility-00F7FF?style=for-the-badge&amp;logo=robot&amp;logoColor=black"/>
 
 </div>
 
@@ -214,7 +194,7 @@ Speech / Text
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&lines=Milestones+so+far..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=17&amp;duration=2500&amp;pause=1500&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Milestones+so+far..." />
 
 <br><br>
 
@@ -232,17 +212,17 @@ Speech / Text
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=googlebrain&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&amp;logo=googlebrain&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&amp;logo=opencv&amp;logoColor=5C3EE8"/>
+<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&amp;logo=databricks&amp;logoColor=FF3621"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Malware%20Analysis-111827?style=for-the-badge&logo=virustotal&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&logo=gnu&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Threat%20Analysis-111827?style=for-the-badge&logo=protonvpn&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Malware%20Analysis-111827?style=for-the-badge&amp;logo=virustotal&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&amp;logo=gnu&amp;logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Threat%20Analysis-111827?style=for-the-badge&amp;logo=protonvpn&amp;logoColor=00F7FF"/>
 
 </div>
 
@@ -252,11 +232,11 @@ Speech / Text
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=I+don't+just+use+technology.;I+try+to+understand+it.;I+build+to+learn.;I+analyze+to+understand.;I+improve+with+every+iteration." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=I+don't+just+use+technology.;I+try+to+understand+it.;I+build+to+learn.;I+analyze+to+understand.;I+improve+with+every+iteration." />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0F172A,50:111827,100:0F172A&text=LEARN%20%7C%20BUILD%20%7C%20ANALYZE%20%7C%20IMPROVE&fontSize=22&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=80&amp;color=0:0F172A,50:111827,100:0F172A&amp;text=LEARN%20%7C%20BUILD%20%7C%20ANALYZE%20%7C%20IMPROVE&amp;fontSize=22&amp;fontColor=00F7FF&amp;animation=fadeIn"/>
 
 </div>
 
@@ -269,33 +249,27 @@ Speech / Text
 <br>
 
 <a href="https://www.linkedin.com/in/kowshik-anand">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/Kowshik796">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <a href="https://kowshik-anand-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:Kowshik.officialid@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+interesting." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=16&amp;duration=3000&amp;pause=1500&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+interesting." />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:111827,100:0F172A"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0F172A,50:111827,100:0F172A"/>
 
 </div>
-
-<!-- ========================================================= -->
-
-<!--                       END OF README                        -->
-
-<!-- ========================================================= -->
