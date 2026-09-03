@@ -1,210 +1,216 @@
-<div align="center">
+# 👋 Hi, I'm Kowshik
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F7FF,100:7000FF&amp;height=200&amp;section=header&amp;text=Kowshik%20Anand&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20%7C%20Cybersecurity&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+[Animated typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Computer+Vision;Cybersecurity+%7C+Malware+Analysis;Reverse+Engineering+Enthusiast;Building+Ideas+Into+Real+Projects)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=1000&amp;color=7000FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+AI-powered+solutions;Exploring+Cybersecurity+%26+Malware+Analysis;Working+with+Machine+Learning+%26+Computer+Vision;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
+[LinkedIn](https://www.linkedin.com/in/kowshik-anand) ([image](https://img.shields.io/badge/LinkedIn-Kowshik%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white))
+[GitHub](https://github.com/Kowshik796) ([image](https://img.shields.io/badge/GitHub-Kowshik796-181717?style=for-the-badge&logo=github&logoColor=white))
+[Portfolio](https://kowshik-anand-portfolio.vercel.app/) ([image](https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white))
+[Email](mailto:Kowshik.officialid@gmail.com) ([image](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white))
 
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/kowshik-anand"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a> <a href="https://github.com/Kowshik796"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/></a> <a href="https://kowshik-anand-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"/></a> <a href="mailto:Kowshik.officialid@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
+## 🧑‍💻 About Me
 
-</div>
+I'm **Kowshik**, a **B.Tech Artificial Intelligence & Data Science** student focused on building practical solutions across **AI/ML, Computer Vision, Data Science, and Cybersecurity**.
 
-<br/>
+My interests sit at the intersection of **intelligent systems and security** — from building machine-learning applications to understanding software behavior through **malware analysis and reverse engineering**.
 
-## ⚡ Quick Facts
+I enjoy taking an idea from concept to implementation while continuously strengthening my fundamentals in computer science.
 
-```yaml
-role: AI & Data Science Student
-focus: AI/ML, Computer Vision, Data Science, Cybersecurity
-specialization: Machine Learning & Malware Analysis
-current_goal: Building intelligent and security-focused systems
-motto: "Learn. Build. Analyze. Improve."
-```
+> ⚡ **Learn deeply. Build consistently. Understand how things work.**
 
-<br/>
+---
 
-## 🧭 About
-
-I'm **Kowshik**, a B.Tech **Artificial Intelligence & Data Science** student passionate about building practical solutions with AI and exploring the security side of software.
-
-My work combines **Machine Learning, Computer Vision, Data Science, Malware Analysis, and Reverse Engineering**. I enjoy taking ideas from concepts to working systems while understanding the technology behind them.
-
-My goal is simple — **build useful technology, understand systems deeply, and keep improving.**
-
-<br/>
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Languages** <br/> <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+## 💻 Languages
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=c" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+</p>
 
-**AI / Machine Learning** <br/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+**Python • C • C++**
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Database** <br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+## 🤖 AI / Machine Learning
 
-<br/><br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+</p>
 
-**Cybersecurity** <br/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/> <img src="https://img.shields.io/badge/PEStudio-111827?style=for-the-badge&amp;logo=security&amp;logoColor=white"/> <img src="https://img.shields.io/badge/x64dbg-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=white"/>
+**NumPy • Pandas • Scikit-Learn • Matplotlib**
 
-<br/>
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Static%20Analysis-111827?style=for-the-badge&amp;logo=virustotal&amp;logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Dynamic%20Analysis-111827?style=for-the-badge&amp;logo=windows&amp;logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&amp;logo=gnu&amp;logoColor=00F7FF"/>
+<tr>
+<td width="50%" valign="top">
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</p>
+
+**MongoDB • MySQL / SQL**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows" width="45"/>
+</p>
+
+**Malware Analysis • Reverse Engineering • Static Analysis • Dynamic Analysis**
+
+**Wireshark • Process Monitor • PEStudio • x64dbg • IDA Pro**
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+[Project animation](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+for+Sustainability;AI+for+Accessibility;Building+Technology+for+Real-World+Problems)
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎨 ReDye Exchange
+## 🎨 ReDye Exchange
 
-**AI-Powered Textile Wastewater Forecasting Platform**
+### ♻️ AI-Powered Textile Wastewater Forecasting
 
-An AI-driven sustainability platform that uses **machine learning to forecast dye wastewater generation** for textile MSMEs.
+An **AI-driven sustainability platform** for textile MSMEs that uses machine learning to **forecast dye wastewater generation** from operational data.
 
-The system converts operational data into predictive insights that can support **water reuse, waste reduction, and sustainable textile production**.
+The system converts production-related inputs into **predictive insights** to support water reuse, waste reduction, and sustainable textile operations.
 
-**Highlights**
+**Key Focus**
 
-* 🧠 Machine Learning-based forecasting
-* 📊 Predictive environmental analytics
-* ♻️ Sustainability-focused solution
-* 🏭 Designed for textile MSMEs
+* Predictive wastewater forecasting
+* Machine learning-based analysis
+* Sustainability insights
+* Textile MSME use cases
+
+**Technologies**
 
 `Python` `Machine Learning` `Predictive Analytics` `MongoDB`
 
+```text
+Operational Data
+       ↓
+Data Processing
+       ↓
+ML Prediction Model
+       ↓
+Wastewater Forecast
+       ↓
+Sustainability Insights
+```
+
 </td>
 
 <td width="50%" valign="top">
 
-### 🤟 Arise IVA
+## 🤟 Arise IVA
 
-**Bidirectional Sign Language ↔ Speech System**
+### 🧠 Bidirectional Sign Language ↔ Speech
 
-An AI-powered accessibility system designed to enable communication between **sign-language users and speech users**.
+An **AI-powered accessibility system** designed to bridge communication between **sign-language users and speech users**.
 
-It combines **computer vision, hand-landmark detection, machine learning, and speech processing** to translate visual gestures into meaningful communication.
+The system combines **computer vision, hand-landmark detection, machine learning, and speech processing** to recognize visual gestures and convert them into meaningful speech/text.
 
-**Highlights**
+**Key Focus**
 
-* 👁️ Computer Vision
-* ✋ Hand-landmark detection
-* 🧠 ML-based recognition
-* 🗣️ Speech & text processing
+* Hand landmark detection
+* Gesture recognition
+* Computer vision pipeline
+* Sign-to-speech processing
+* Accessibility-focused AI
+
+**Technologies**
 
 `Python` `TensorFlow` `MediaPipe` `Computer Vision` `FastAPI`
 
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-## 🏆 Achievements
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🥇
-
-**Idea Lab 2024**
-
-1st Prize
-
-</td>
-
-<td align="center" width="33%">
-
-### 🏆
-
-**MSME Hackathon**
-
-Finalist
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀
-
-**Smart India Hackathon**
-
-Pre-Finalist
+```text
+Sign Language
+      ↓
+Hand Detection
+      ↓
+Landmark Extraction
+      ↓
+ML Recognition
+      ↓
+Speech / Text
+```
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+---
 
-## 🔬 Areas of Interest
+# 🏆 Achievements
 
-<div align="center">
+[Milestones](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2500&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&lines=Milestones+so+far...)
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&amp;logo=googlebrain&amp;logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&amp;logo=opencv&amp;logoColor=5C3EE8"/>
-<img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&amp;logo=databricks&amp;logoColor=FF3621"/>
+[Idea Lab](https://img.shields.io/badge/%F0%9F%A5%87%20Idea%20Lab%202024-1st%20Prize-FFD700?style=for-the-badge)
 
-<br/>
+[MSME](https://img.shields.io/badge/%F0%9F%8F%86%20MSME%20Hackathon-Finalist-9C27B0?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Malware%20Analysis-111827?style=for-the-badge&amp;logo=virustotal&amp;logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&amp;logo=gnu&amp;logoColor=00F7FF"/>
+[SIH](https://img.shields.io/badge/%F0%9F%9A%80%20Smart%20India%20Hackathon-Pre--Finalist-2196F3?style=for-the-badge)
 
-</div>
+---
 
-<br/>
+# 🔬 Areas of Interest
 
-## ⚡ Developer Mindset
+[Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=googlebrain&logoColor=00F7FF)
+[Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+[Computer Vision](https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+[Data Science](https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
-<div align="center">
+[Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=00F7FF)
+[Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-111827?style=for-the-badge&logo=virustotal&logoColor=00F7FF)
+[Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge&logo=gnu&logoColor=00F7FF)
+[Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-111827?style=for-the-badge&logo=protonvpn&logoColor=00F7FF)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Learn+deeply.;Build+consistently.;Analyze+carefully.;Understand+how+things+work.;Improve+with+every+iteration." />
+---
 
-<br/><br/>
+# ⚡ Developer Mindset
 
-<i>"Don't just use technology. Understand it."</i>
+[Mindset](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=I+don%27t+just+use+technology.;I+try+to+understand+it.;I+build+to+learn.;I+analyze+to+understand.;I+improve+with+every+iteration.)
 
-</div>
+> **"Don't just use technology. Understand it."**
 
-<br/>
+---
 
-## 📫 Find Me Online
+# 🌐 Find Me Online
 
-<div align="center">
+[LinkedIn](https://www.linkedin.com/in/kowshik-anand) ([image](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white))
 
-<a href="https://www.linkedin.com/in/kowshik-anand"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a> <a href="https://github.com/Kowshik796"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a> <a href="https://kowshik-anand-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"/></a> <a href="mailto:Kowshik.officialid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+[GitHub](https://github.com/Kowshik796) ([image](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white))
 
-<br/><br/>
+[Portfolio](https://kowshik-anand-portfolio.vercel.app/) ([image](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white))
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=16&amp;duration=3000&amp;pause=1500&amp;color=7000FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+interesting." />
+[Email](mailto:Kowshik.officialid@gmail.com) ([image](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white))
 
-</div>
+---
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7000FF,100:00F7FF&amp;height=100&amp;section=footer" width="100%"/>
+[Thank You](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let%27s+build+something+interesting.)
